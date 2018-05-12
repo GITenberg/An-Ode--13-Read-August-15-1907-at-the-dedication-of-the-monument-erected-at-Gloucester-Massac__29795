@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2531
     wikipedia: http://en.wikipedia.org/wiki/Madison_Julius_Cawein
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29795#An-Ode--13-Read-August-15-1907-at-the-dedication-of-the-monument-erected-at-Gloucester-Massac_
 gutenberg_issued: '2009-08-25'
 gutenberg_type: Text
 identifiers:
